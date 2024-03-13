@@ -15,7 +15,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 To set up your development environment, please follow the instructions below:
 
 1. Clone the repository:
-git clone https://github.com/your-username/Sentiment-Analysis-in-Financial-Markets.git
+git clone https://github.com/ethanfalcao/Sentiment-Analysis-in-Financial-Markets.git
 cd Sentiment-Analysis-in-Financial-Markets
 
 3. Install the required packages:
