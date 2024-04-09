@@ -9,7 +9,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Prerequisites
 - Python 3.6 or higher
 - Pip
-- Virtualenv (recommended)
 
 ### Installation
 To set up your development environment, please follow the instructions below:
