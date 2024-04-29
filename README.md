@@ -23,4 +23,4 @@ To use this project:
 - ethanfalcao - Initial work - [ethanfalcao](https://github.com/ethanfalcao)
 
 ## Project Status
-Describe the current status of the project and any ongoing developments.
+Ongoing 
