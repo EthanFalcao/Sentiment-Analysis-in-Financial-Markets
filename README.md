@@ -24,3 +24,4 @@ To use this project:
 
 ## Project Status
 Project may be put in use for the WPI Investing Association in Fall 2024. This will be valuable for the club's portfolio management and stock pitches.
+
