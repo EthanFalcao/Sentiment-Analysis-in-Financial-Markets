@@ -19,8 +19,10 @@ To use this project:
 - **Pandas** - The library used for data manipulation and analysis.
 - **NLTK** - Used for processing textual data.
 
+## Project Status
+Ongoing 
+
+
 ## Authors
 - ethanfalcao - Initial work - [ethanfalcao](https://github.com/ethanfalcao)
 
-## Project Status
-Ongoing 
