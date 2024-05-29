@@ -17,7 +17,7 @@ To use this project:
 ## Built With
 - **Python** - The core programming language used.
 - **Pandas** - The library used for data manipulation and analysis.
-- **NLTK** - Used for processing textual data.
+- **BERT** - Used for processing textual data.
 
 ## Project Status
 Ongoing 
