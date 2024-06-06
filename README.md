@@ -24,5 +24,6 @@ Ongoing
 
 
 ## Authors
-- ethanfalcao - Initial work - [ethanfalcao](https://github.com/ethanfalcao)
+- Ethan Falcao - Initial work - [ethanfalcao](https://github.com/ethanfalcao)
 
+- Nur Fateemah - Documentation - [nurfateemah03](https://github.com/nurfateemah03)
